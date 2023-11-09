@@ -1,6 +1,6 @@
 {
   "jsFiles": "",
-  "jsFolder": "customjs",
+  "jsFolder": ".customjs",
   "startupScriptNames": [],
   "registeredInvocableScriptNames": []
 }
